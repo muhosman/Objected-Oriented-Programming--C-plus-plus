@@ -1,0 +1,15 @@
+Game_Style:2
+Player_Turn:1
+CMP_ROW:6
+CMP_COL:8
+Size:9
+Board:
+........O
+........O
+........O
+XXX.....O
+..XXX...O
+....X...O
+........O
+.........
+.........
